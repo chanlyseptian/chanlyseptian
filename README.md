@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Chanly Septian 👋  
 [![Medium Badge](https://img.shields.io/badge/-chanlyseptian-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@chanlyseptian)
+[![Website Badge](https://img.shields.io/badge/-chanlyseptian-blue?style=flat-square&logo=Website&logoColor=white&link=https://medium.com/@fiqryq)](https://chanlyseptian.github.io/)
 ### 🧐 Interested in data science 📊🤟
 
 I’m currently learning : 
