@@ -1,7 +1,33 @@
-### Hi there, I'm Chanly Septian 👋 
+<!--### Hi there 👋
 
-- 🧐 Interested in data analytics 📊
-- 🌱 I’m currently learning Data science 🤟
+
+**chanlyseptian/chanlyseptian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+## Hi there, I'm Chanly Septian 👋  
+[![Medium Badge](https://img.shields.io/badge/-chanlyseptian-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@fiqryq)](https://medium.com/@chanlyseptian)
+[![Website Badge](https://img.shields.io/badge/-chanlyseptian-blue?style=flat-square&logo=Website&logoColor=white&link=https://medium.com/@fiqryq)](https://chanlyseptian.github.io/)
+### 🧐 Interested in data science 📊🤟
+
+I’m currently learning : 
+
+- ⚡ Data Mining 
+- ⚡ Statistical Analysis
+- ⚡ Data visualization
+- ⚡ Machine Learning 
+- ⚡ Deep Learning
+
+
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
