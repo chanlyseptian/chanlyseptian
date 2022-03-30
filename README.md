@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/-chanlyseptian-blue?style=flat-square&logo=Website&logoColor=white&link=https://medium.com/@fiqryq)](https://chanlyseptian.github.io/)
 
 
-I’m currently learning : 
-
-- ⚡ Data Mining 
-- ⚡ Statistical Analysis
-- ⚡ Data visualization
-- ⚡ Machine Learning 
-- ⚡ Deep Learning
 
 
 
